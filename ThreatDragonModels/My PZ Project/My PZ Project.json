@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "My PZ Project",
+    "owner": "Michael Moerman",
+    "description": "BlaBla System"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Vikas Mukhi"
+  }
+}
