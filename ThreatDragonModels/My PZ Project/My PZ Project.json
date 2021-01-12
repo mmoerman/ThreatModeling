@@ -5,7 +5,11 @@
     "description": "BlaBla System"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "Andrew Lee"
+      }
+    ],
     "diagrams": [
       {
         "title": "Kubernetes Perimeter",
